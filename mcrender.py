@@ -3,9 +3,9 @@
 # Version 2 - draws complete faces rather than wireframes and uses materials
 
 #import the minecraft.py module from the minecraft directory
-import minecraft.minecraft as minecraft
+import mcpi.minecraft as minecraft
 #import minecraft block module
-import minecraft.block as block
+import mcpi.block as block
 #import time, so delays can be used
 import time
 #import datetime, to get the time!
